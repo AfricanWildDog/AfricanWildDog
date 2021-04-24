@@ -41,7 +41,7 @@ $AWD is a Governance Token for African Wild Dog Project.
 
 ## The TOKENOMICS of the African Wild Dog Project
 
-1.	100% for the fair launch. We add 80% of token to LP on ALLINX DEX.
+1.	100% for the fair launch. We add 100% of token to LP on ALLINX DEX.
 
 ## Join the African Wild Dog Project
 
