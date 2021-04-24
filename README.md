@@ -27,6 +27,7 @@ $AWD is a Governance Token for African Wild Dog Project.
 3. Expand consensus rapidly
     * Obtain the recognition of Twitter influencers and quickly spread the project information.
     * Reached a strategic cooperation with CNH group to rapidly spread the  project information.
+    * Community members will bring more good channels to spread the  project information.  
 
 ## Features of the African Wild Dog Project
 
