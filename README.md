@@ -31,9 +31,9 @@ https://www.bscscan.com/token/0x2d40Cb840CBB1E22fE9CFf65236D47be992Bd9B3
 1. Community-driven, believe in the power of the community.  
 2. Based on Binance Smart Chain, leverage Binance.  
 3. The initial full circulation guarantees 100% fairness and justice.  
-4. Trading automatically leads to extreme deflation(BURN).   
-5. Trading automatically add liquidity(LP Acquisition).  
-6. Trading automatically distributes dividends to token holders(Reflection).  
+4. Trading automatically leads to extreme deflation(**BURN**).   
+5. Trading automatically add liquidity(**LP Acquisition**).  
+6. Trading automatically distributes dividends to token holders(**Reflection**).  
 
 ![](https://cdn.discordapp.com/attachments/815933297846779914/835075250571968532/M19872_so4uekOCCRfIvijksMFlGIMrVMBIu5XedvJMzZ6hNUE5493XUZcv2.jpg)
 
