@@ -48,6 +48,12 @@ $AWD is a Governance Token for African Wild Dog Project.
 1. The African wild dog project has been launched on the ALLINX DEX platform. Enter the address in any browser that supports BSC chain wallets such as Trust wallet to buy $AWD: https://app.allinx.io/#/swap?outputCurrency=0x2d40Cb840CBB1E22fE9CFf65236D47be992Bd9B3
 2. It is recommended that you invest 0.1BNB and wait for the success of the project.
 
+## Social Media:
+Twitter: https://twitter.com/AWDProjectWoof
+Telegram: https://t.me/AfricanWildDog
+
+
+
 # Become a family of African wild dogs, let's go to the moon together!
 
 
