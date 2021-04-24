@@ -12,6 +12,8 @@ $AWD is a Governance Token for African Wild Dog Project.
 
 **READ CONTRACT:** https://www.bscscan.com/token/0x2d40Cb840CBB1E22fE9CFf65236D47be992Bd9B3#readContract   
 
+African wild dog is a global project, please visit the introduction in different languages:   
+https://github.com/AfricanWildDog/AfricanWildDog/wiki  
 
 ## The basis for the success of the African Wild Dog Project
 
