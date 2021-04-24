@@ -3,7 +3,7 @@
 ## Introdcution
 Compared with other projects focusing on the "Reflection, LP Acquisition, & Burn mechanism", the African wild dog will bring you the ultimate rocket experience.  
 
-Our philosophy of E = mc2 is "Trade = deflation" and "Holding = passive value-added"
+Our philosophy of E = mc2 is **"trade = deflation"** and **"holding = passive value-added"**
 
 ## The basis for the success of the African Wild Dog Project
 1. Based on successful cases, but better:
