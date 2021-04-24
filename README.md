@@ -6,6 +6,11 @@ Compared with other projects focusing on the "Reflection, LP Acquisition, & Burn
 
 Our philosophy of E = mc2 is **"trade = deflation"** and **"holding = passive value-added"**
 
+$AWD is a Governance Token for African Wild Dog Project.
+BSC Contract Address: 0x2d40Cb840CBB1E22fE9CFf65236D47be992Bd9B3
+https://www.bscscan.com/token/0x2d40Cb840CBB1E22fE9CFf65236D47be992Bd9B3
+
+
 ## The basis for the success of the African Wild Dog Project
 
 1. Based on successful cases, but better:
@@ -34,5 +39,13 @@ Our philosophy of E = mc2 is **"trade = deflation"** and **"holding = passive va
 
 ## The TOKENOMICS of the African Wild Dog Project
 
-1.	100% for the fair launch.
+1.	100% for the fair launch. We add 80% of token to LP on ALLINX DEX.
+
+## Join the African Wild Dog Project
+
+1. The African wild dog project has been launched on the ALLINX DEX platform. Enter the address in any browser that supports BSC chain wallets such as Trust wallet to purchase $AWD: https://app.allinx.io/#/swap?outputCurrency=0x2d40Cb840CBB1E22fE9CFf65236D47be992Bd9B3
+2. It is recommended that you invest 0.1BNB and wait for the success of the project.
+
+# Become a family of African wild dogs, let's go to the moon together!
+
 
