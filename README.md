@@ -1,5 +1,15 @@
 # African Wild Dog Project - Less is More
 
+African wild dog is a global project, please check the introduction with your preferred language:   
+* [عربى ](https://github.com/AfricanWildDog/AfricanWildDog/wiki/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D9%83%D9%84%D8%A7%D8%A8-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9---%D8%A7%D9%84%D8%A3%D9%82%D9%84-%D9%87%D9%88-%D8%A3%D9%83%D8%AB%D8%B1)
+* [français](https://github.com/AfricanWildDog/AfricanWildDog/wiki/African-Wild-Dog-Project---Moins-c'est-plus)
+* [русский](https://github.com/AfricanWildDog/AfricanWildDog/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%22%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F-%D0%B4%D0%B8%D0%BA%D0%B0%D1%8F-%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0%22---%D0%BC%D0%B5%D0%BD%D1%8C%D1%88%D0%B5-%D0%B7%D0%BD%D0%B0%D1%87%D0%B8%D1%82-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5)
+* [Español](https://github.com/AfricanWildDog/AfricanWildDog/wiki/Proyecto-de-perros-salvajes-africanos:-menos-es-m%C3%A1s)
+* [日本語](https://github.com/AfricanWildDog/AfricanWildDog/wiki/%E3%83%AA%E3%82%AB%E3%82%AA%E3%83%B3%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88-%E5%B0%91%E3%81%AA%E3%81%84%E3%81%BB%E3%81%A9%E5%A4%9A%E3%81%84)
+* [한국어](https://github.com/AfricanWildDog/AfricanWildDog/wiki/%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-%EC%95%BC%EC%83%9D-%EA%B2%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%81%EC%9D%84%EC%88%98%EB%A1%9D-%EC%A2%8B%EB%8B%A4)
+* [简体中文](https://github.com/AfricanWildDog/AfricanWildDog/wiki/%E9%9D%9E%E6%B4%B2%E9%87%8E%E7%8B%97%E9%A1%B9%E7%9B%AE---%E5%B0%91%E5%8D%B3%E6%98%AF%E5%A4%9A%EF%BC%88Less-is-More%EF%BC%89)
+
+
 ## Introdcution
 
 Compared with other projects focusing on the "Reflection, LP Acquisition, & Burn mechanism", the African wild dog will bring you the ultimate rocket experience.  
@@ -11,15 +21,6 @@ $AWD is a Governance Token for African Wild Dog Project.
 **BSC Contract Address:** 0x2d40Cb840CBB1E22fE9CFf65236D47be992Bd9B3 https://www.bscscan.com/token/0x2d40Cb840CBB1E22fE9CFf65236D47be992Bd9B3   
 
 **READ CONTRACT:** https://www.bscscan.com/token/0x2d40Cb840CBB1E22fE9CFf65236D47be992Bd9B3#readContract   
-
-African wild dog is a global project, please check the introduction with your preferred language:   
-* [عربى ](https://github.com/AfricanWildDog/AfricanWildDog/wiki/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D9%83%D9%84%D8%A7%D8%A8-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9---%D8%A7%D9%84%D8%A3%D9%82%D9%84-%D9%87%D9%88-%D8%A3%D9%83%D8%AB%D8%B1)
-* [français](https://github.com/AfricanWildDog/AfricanWildDog/wiki/African-Wild-Dog-Project---Moins-c'est-plus)
-* [русский](https://github.com/AfricanWildDog/AfricanWildDog/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%22%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F-%D0%B4%D0%B8%D0%BA%D0%B0%D1%8F-%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0%22---%D0%BC%D0%B5%D0%BD%D1%8C%D1%88%D0%B5-%D0%B7%D0%BD%D0%B0%D1%87%D0%B8%D1%82-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5)
-* [Español](https://github.com/AfricanWildDog/AfricanWildDog/wiki/Proyecto-de-perros-salvajes-africanos:-menos-es-m%C3%A1s)
-* [日本語](https://github.com/AfricanWildDog/AfricanWildDog/wiki/%E3%83%AA%E3%82%AB%E3%82%AA%E3%83%B3%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88-%E5%B0%91%E3%81%AA%E3%81%84%E3%81%BB%E3%81%A9%E5%A4%9A%E3%81%84)
-* [한국어](https://github.com/AfricanWildDog/AfricanWildDog/wiki/%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-%EC%95%BC%EC%83%9D-%EA%B2%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%81%EC%9D%84%EC%88%98%EB%A1%9D-%EC%A2%8B%EB%8B%A4)
-* [简体中文](https://github.com/AfricanWildDog/AfricanWildDog/wiki/%E9%9D%9E%E6%B4%B2%E9%87%8E%E7%8B%97%E9%A1%B9%E7%9B%AE---%E5%B0%91%E5%8D%B3%E6%98%AF%E5%A4%9A%EF%BC%88Less-is-More%EF%BC%89)
 
 
 ## The basis for the success of the African Wild Dog Project
