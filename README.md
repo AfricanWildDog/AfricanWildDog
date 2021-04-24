@@ -49,8 +49,8 @@ $AWD is a Governance Token for African Wild Dog Project.
 2. It is recommended that you invest 0.1BNB and wait for the success of the project.
 
 ## Social Media:
-Twitter: https://twitter.com/AWDProjectWoof
-Telegram: https://t.me/AfricanWildDog
+Twitter: https://twitter.com/AWDProjectWoof  
+Telegram: https://t.me/AfricanWildDog  
 
 
 
