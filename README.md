@@ -7,8 +7,10 @@ Compared with other projects focusing on the "Reflection, LP Acquisition, & Burn
 Our philosophy of E = mc2 is **"trade = deflation"** and **"holding = passive value-added"**
 
 $AWD is a Governance Token for African Wild Dog Project.  
-**BSC Contract Address:** 0x2d40Cb840CBB1E22fE9CFf65236D47be992Bd9B3 https://www.bscscan.com/token/0x2d40Cb840CBB1E22fE9CFf65236D47be992Bd9B3  
-**READ CONTRACT:** https://www.bscscan.com/token/0x2d40Cb840CBB1E22fE9CFf65236D47be992Bd9B3#readContract  
+
+**BSC Contract Address:** 0x2d40Cb840CBB1E22fE9CFf65236D47be992Bd9B3 https://www.bscscan.com/token/0x2d40Cb840CBB1E22fE9CFf65236D47be992Bd9B3   
+
+**READ CONTRACT:** https://www.bscscan.com/token/0x2d40Cb840CBB1E22fE9CFf65236D47be992Bd9B3#readContract   
 
 
 ## The basis for the success of the African Wild Dog Project
