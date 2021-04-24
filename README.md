@@ -12,7 +12,7 @@ $AWD is a Governance Token for African Wild Dog Project.
 
 **READ CONTRACT:** https://www.bscscan.com/token/0x2d40Cb840CBB1E22fE9CFf65236D47be992Bd9B3#readContract   
 
-African wild dog is a global project, please visit the introduction in different languages:   
+African wild dog is a global project, please check the introduction with your preferred languages:   
 * [عربى ](https://github.com/AfricanWildDog/AfricanWildDog/wiki/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D9%83%D9%84%D8%A7%D8%A8-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9---%D8%A7%D9%84%D8%A3%D9%82%D9%84-%D9%87%D9%88-%D8%A3%D9%83%D8%AB%D8%B1)
 * [français](https://github.com/AfricanWildDog/AfricanWildDog/wiki/African-Wild-Dog-Project---Moins-c'est-plus)
 * [русский](https://github.com/AfricanWildDog/AfricanWildDog/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%22%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F-%D0%B4%D0%B8%D0%BA%D0%B0%D1%8F-%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0%22---%D0%BC%D0%B5%D0%BD%D1%8C%D1%88%D0%B5-%D0%B7%D0%BD%D0%B0%D1%87%D0%B8%D1%82-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5)
